@@ -1,0 +1,15 @@
+{
+  "kiosk": {
+
+  },
+  "items":[
+    {
+      "type":"Item",
+      "itemCode":"ACR0145",
+      "description": "selfCheck 500 acrylic",
+      "uom":"PCS",
+      "quantity":10.00
+    }
+  ]
+
+}
